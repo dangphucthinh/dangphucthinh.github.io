@@ -11,10 +11,6 @@
     "file": "assets/images/Thinh_Dang_logo-f24b97b4.svg",
     "src": "assets/images/Thinh_Dang_logo.svg"
   },
-  "assets/images/usa-flag.svg": {
-    "file": "assets/images/usa-flag-a96f93b0.svg",
-    "src": "assets/images/usa-flag.svg"
-  },
   "assets/images/flutter.svg": {
     "file": "assets/images/flutter-dff703dd.svg",
     "src": "assets/images/flutter.svg"
@@ -23,17 +19,17 @@
     "file": "assets/images/vietnam-flag-2d21f160.svg",
     "src": "assets/images/vietnam-flag.svg"
   },
-  "assets/images/css.svg": {
-    "file": "assets/images/css-f552a261.svg",
-    "src": "assets/images/css.svg"
-  },
   "assets/images/bootstrap.svg": {
     "file": "assets/images/bootstrap-268a94d8.svg",
     "src": "assets/images/bootstrap.svg"
   },
-  "assets/images/javascript.svg": {
-    "file": "assets/images/javascript-c6da703f.svg",
-    "src": "assets/images/javascript.svg"
+  "assets/images/usa-flag.svg": {
+    "file": "assets/images/usa-flag-a96f93b0.svg",
+    "src": "assets/images/usa-flag.svg"
+  },
+  "assets/images/css.svg": {
+    "file": "assets/images/css-f552a261.svg",
+    "src": "assets/images/css.svg"
   },
   "assets/images/html.svg": {
     "file": "assets/images/html-1e83644f.svg",
@@ -42,6 +38,10 @@
   "assets/images/c-sharp.svg": {
     "file": "assets/images/c-sharp-931b98ec.svg",
     "src": "assets/images/c-sharp.svg"
+  },
+  "assets/images/javascript.svg": {
+    "file": "assets/images/javascript-c6da703f.svg",
+    "src": "assets/images/javascript.svg"
   },
   "assets/images/dotnet.svg": {
     "file": "assets/images/dotnet-ea16419d.svg",
@@ -71,13 +71,13 @@
     "file": "assets/images/sign-in-cover-5ac2a170.svg",
     "src": "assets/images/sign-in-cover.svg"
   },
-  "assets/images/card-visa.svg": {
-    "file": "assets/images/card-visa-a160e1a6.svg",
-    "src": "assets/images/card-visa.svg"
-  },
   "assets/images/card-mastercard.svg": {
     "file": "assets/images/card-mastercard-bcb34494.svg",
     "src": "assets/images/card-mastercard.svg"
+  },
+  "assets/images/card-visa.svg": {
+    "file": "assets/images/card-visa-a160e1a6.svg",
+    "src": "assets/images/card-visa.svg"
   },
   "assets/images/thinh_dang_avatar.png": {
     "file": "assets/images/thinh_dang_avatar-e72c7a04.png",
@@ -92,7 +92,7 @@
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/css/index-4c193640.css"
+      "assets/css/index-e49e7a9d.css"
     ],
     "assets": [
       "assets/images/Thinh_Dang_logo-f24b97b4.svg",
@@ -118,7 +118,7 @@
     ]
   },
   "index.css": {
-    "file": "assets/css/index-4c193640.css",
+    "file": "assets/css/index-e49e7a9d.css",
     "src": "index.css"
   }
 }
