@@ -11,33 +11,37 @@
     "file": "assets/images/Thinh_Dang_logo-f24b97b4.svg",
     "src": "assets/images/Thinh_Dang_logo.svg"
   },
-  "assets/images/vietnam-flag.svg": {
-    "file": "assets/images/vietnam-flag-2d21f160.svg",
-    "src": "assets/images/vietnam-flag.svg"
-  },
   "assets/images/usa-flag.svg": {
     "file": "assets/images/usa-flag-a96f93b0.svg",
     "src": "assets/images/usa-flag.svg"
   },
-  "assets/images/bootstrap.svg": {
-    "file": "assets/images/bootstrap-268a94d8.svg",
-    "src": "assets/images/bootstrap.svg"
-  },
-  "assets/images/flutter.svg": {
-    "file": "assets/images/flutter-dff703dd.svg",
-    "src": "assets/images/flutter.svg"
+  "assets/images/vietnam-flag.svg": {
+    "file": "assets/images/vietnam-flag-2d21f160.svg",
+    "src": "assets/images/vietnam-flag.svg"
   },
   "assets/images/css.svg": {
     "file": "assets/images/css-f552a261.svg",
     "src": "assets/images/css.svg"
   },
+  "assets/images/html.svg": {
+    "file": "assets/images/html-1e83644f.svg",
+    "src": "assets/images/html.svg"
+  },
+  "assets/images/flutter.svg": {
+    "file": "assets/images/flutter-dff703dd.svg",
+    "src": "assets/images/flutter.svg"
+  },
+  "assets/images/bootstrap.svg": {
+    "file": "assets/images/bootstrap-268a94d8.svg",
+    "src": "assets/images/bootstrap.svg"
+  },
   "assets/images/javascript.svg": {
     "file": "assets/images/javascript-c6da703f.svg",
     "src": "assets/images/javascript.svg"
   },
-  "assets/images/html.svg": {
-    "file": "assets/images/html-1e83644f.svg",
-    "src": "assets/images/html.svg"
+  "assets/images/ava.jpg": {
+    "file": "assets/images/ava-aa523eca.jpg",
+    "src": "assets/images/ava.jpg"
   },
   "assets/images/c-sharp.svg": {
     "file": "assets/images/c-sharp-931b98ec.svg",
@@ -47,10 +51,6 @@
     "file": "assets/images/dotnet-ea16419d.svg",
     "src": "assets/images/dotnet.svg"
   },
-  "assets/images/ava.jpg": {
-    "file": "assets/images/ava-aa523eca.jpg",
-    "src": "assets/images/ava.jpg"
-  },
   "assets/images/react.svg": {
     "file": "assets/images/react-c67b0b25.svg",
     "src": "assets/images/react.svg"
@@ -59,40 +59,40 @@
     "file": "assets/images/angular-8676a5c8.svg",
     "src": "assets/images/angular.svg"
   },
-  "assets/images/sign-in-cover.svg": {
-    "file": "assets/images/sign-in-cover-5ac2a170.svg",
-    "src": "assets/images/sign-in-cover.svg"
-  },
   "assets/images/sql-server.svg": {
     "file": "assets/images/sql-server-365b43f0.svg",
     "src": "assets/images/sql-server.svg"
+  },
+  "assets/images/sign-in-cover.svg": {
+    "file": "assets/images/sign-in-cover-5ac2a170.svg",
+    "src": "assets/images/sign-in-cover.svg"
   },
   "assets/images/empty-profile.svg": {
     "file": "assets/images/empty-profile-7a30a9f9.svg",
     "src": "assets/images/empty-profile.svg"
   },
-  "assets/images/card-mastercard.svg": {
-    "file": "assets/images/card-mastercard-bcb34494.svg",
-    "src": "assets/images/card-mastercard.svg"
-  },
   "assets/images/card-visa.svg": {
     "file": "assets/images/card-visa-a160e1a6.svg",
     "src": "assets/images/card-visa.svg"
   },
-  "assets/images/thinh_dang_avatar.png": {
-    "file": "assets/images/thinh_dang_avatar-e72c7a04.png",
-    "src": "assets/images/thinh_dang_avatar.png"
+  "assets/images/card-mastercard.svg": {
+    "file": "assets/images/card-mastercard-bcb34494.svg",
+    "src": "assets/images/card-mastercard.svg"
   },
   "assets/others/DANG-PHUC-THINH-CV.pdf": {
     "file": "assets/DANG-PHUC-THINH-CV-86c5284b.pdf",
     "src": "assets/others/DANG-PHUC-THINH-CV.pdf"
   },
+  "assets/images/thinh_dang_avatar.png": {
+    "file": "assets/images/thinh_dang_avatar-e72c7a04.png",
+    "src": "assets/images/thinh_dang_avatar.png"
+  },
   "index.html": {
-    "file": "app.57bb3a7d.js",
+    "file": "app.5439496a.js",
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/css/index-b524688d.css"
+      "assets/css/index-1705ee1d.css"
     ],
     "assets": [
       "assets/images/Thinh_Dang_logo-f24b97b4.svg",
@@ -118,7 +118,7 @@
     ]
   },
   "index.css": {
-    "file": "assets/css/index-b524688d.css",
+    "file": "assets/css/index-1705ee1d.css",
     "src": "index.css"
   }
 }
