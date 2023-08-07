@@ -15,37 +15,33 @@
     "file": "assets/images/vietnam-flag-2d21f160.svg",
     "src": "assets/images/vietnam-flag.svg"
   },
-  "assets/images/usa-flag.svg": {
-    "file": "assets/images/usa-flag-a96f93b0.svg",
-    "src": "assets/images/usa-flag.svg"
-  },
-  "assets/images/css.svg": {
-    "file": "assets/images/css-f552a261.svg",
-    "src": "assets/images/css.svg"
-  },
-  "assets/images/bootstrap.svg": {
-    "file": "assets/images/bootstrap-268a94d8.svg",
-    "src": "assets/images/bootstrap.svg"
-  },
   "assets/images/flutter.svg": {
     "file": "assets/images/flutter-dff703dd.svg",
     "src": "assets/images/flutter.svg"
   },
-  "assets/images/javascript.svg": {
-    "file": "assets/images/javascript-c6da703f.svg",
-    "src": "assets/images/javascript.svg"
-  },
-  "assets/images/c-sharp.svg": {
-    "file": "assets/images/c-sharp-931b98ec.svg",
-    "src": "assets/images/c-sharp.svg"
+  "assets/images/usa-flag.svg": {
+    "file": "assets/images/usa-flag-a96f93b0.svg",
+    "src": "assets/images/usa-flag.svg"
   },
   "assets/images/html.svg": {
     "file": "assets/images/html-1e83644f.svg",
     "src": "assets/images/html.svg"
   },
-  "assets/images/ava.jpg": {
-    "file": "assets/images/ava-aa523eca.jpg",
-    "src": "assets/images/ava.jpg"
+  "assets/images/bootstrap.svg": {
+    "file": "assets/images/bootstrap-268a94d8.svg",
+    "src": "assets/images/bootstrap.svg"
+  },
+  "assets/images/javascript.svg": {
+    "file": "assets/images/javascript-c6da703f.svg",
+    "src": "assets/images/javascript.svg"
+  },
+  "assets/images/css.svg": {
+    "file": "assets/images/css-f552a261.svg",
+    "src": "assets/images/css.svg"
+  },
+  "assets/images/c-sharp.svg": {
+    "file": "assets/images/c-sharp-931b98ec.svg",
+    "src": "assets/images/c-sharp.svg"
   },
   "assets/images/dotnet.svg": {
     "file": "assets/images/dotnet-ea16419d.svg",
@@ -54,6 +50,10 @@
   "assets/images/react.svg": {
     "file": "assets/images/react-c67b0b25.svg",
     "src": "assets/images/react.svg"
+  },
+  "assets/images/ava.jpg": {
+    "file": "assets/images/ava-aa523eca.jpg",
+    "src": "assets/images/ava.jpg"
   },
   "assets/images/angular.svg": {
     "file": "assets/images/angular-8676a5c8.svg",
@@ -100,7 +100,7 @@
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/css/index-17be73e1.css"
+      "assets/css/index-e3dc311c.css"
     ],
     "assets": [
       "assets/images/Thinh_Dang_logo-f24b97b4.svg",
@@ -128,7 +128,7 @@
     ]
   },
   "index.css": {
-    "file": "assets/css/index-17be73e1.css",
+    "file": "assets/css/index-e3dc311c.css",
     "src": "index.css"
   }
 }
