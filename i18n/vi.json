@@ -27,7 +27,7 @@
   "authorization": "Authorization",
   "authorization_frontend": "OAuth, OAuth 2.0, SSO",
   "responsive_web_design": "Responsive web design",
-  "responsive_web_design_frontend": "Media queries, viewport units, mobile-friendly",
+  "responsive_web_design_frontend": "Media queries, mobile-friendly",
   "ecosystems": "Ecosystems",
   "ecosystems_frontend": "Styled components, i18next",
   "fonts": "Fonts",

@@ -18,18 +18,6 @@ export function TechnicalSkills() {
       label: 'css_frameworks',
       value: 'css_frameworks_frontend',
     },
-    {
-      label: 'responsive_web_design',
-      value: 'responsive_web_design_frontend',
-    },
-    {
-      label: 'ui_ux',
-      value: 'ui_ux_frontend',
-    },
-    {
-      label: 'ui_design_tools',
-      value: 'ui_design_tools_frontend',
-    },
   ];
 
   const backendSkills = [

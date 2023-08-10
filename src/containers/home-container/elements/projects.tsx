@@ -25,7 +25,7 @@ export function Projects() {
         'Typescript',
         'MatterialUI',
       ],
-      role: 'Back-end Team Leader, Front-end Developer',
+      role: 'Back-end & Front-end Developer',
       timesheet: t('timesheet_edu'),
     },
     {
@@ -53,7 +53,7 @@ export function Projects() {
         'Angular',
         'Typescript',
       ],
-      role: 'Back-end Team Leader, Front-end developer',
+      role: 'Back-end & Front-end developer',
       timesheet: t('timesheet_tp'),
     },
     {
